@@ -21,8 +21,8 @@ I use virtual-env to maintain my packages, makes things easier.
 ### To Run
 Right now theres only a simple example in main.py. Demonstrates entanglement and measurement. To run simply call in the right directory:
 	
-	```bash
-	python main.py
-	```
+```bash
+python main.py
+```
 
 
