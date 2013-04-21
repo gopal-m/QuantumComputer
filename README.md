@@ -10,13 +10,15 @@ Running
 Only tested on python 2.7
 ###Requires numpy 
 To install it hopefully should be as easy as : 
-	pip install numpy
+	
+	```pip install numpy```
 
 I use virtual-env to maintain my packages, makes things easier.
 
 
 ### To Run
 Right now theres only a simple example in main.py. Demonstrates entanglement and measurement. To run simply call in the right directory:
-	python main.py
+	
+	```python main.py```
 
 
